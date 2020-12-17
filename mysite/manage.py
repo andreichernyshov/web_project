@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+
+# Первой строкой здесь идет BASH скрипт, указывающий на виртуальную среду, где развернут этот проект.
+
 import os
 import sys
 
